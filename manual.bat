@@ -1,0 +1,1 @@
+c -a lyra2z -o stratum+tcp://asia.lyra2z-hub.miningpoolhub.com:20581 -u ronnyliem_id.tokecang98 -p x
